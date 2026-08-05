@@ -83,7 +83,17 @@ ai_stack = {
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdeore2151&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rohitdeore2151&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdeore2151&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -98,16 +108,6 @@ ai_stack = {
 | **Customer Churn Prediction** | Developed a classification model to predict customer churn using data preprocessing and feature engineering. | Python, Scikit-learn, Pandas |
 | **Image Classification** | Created a deep learning model for image classification using convolutional neural networks (CNNs). | TensorFlow, OpenCV |
 | **Sales Data Analysis Dashboard** | Performed exploratory data analysis and built an interactive dashboard for business insights. | Pandas, NumPy, Power BI |
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdeore2151&theme=tokyonight" width="100%" />
-</p>
 
 ---
 
