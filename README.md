@@ -88,13 +88,23 @@ ai_stack = {
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdeore2151&theme=tokyonight" width="100%" />
-</p>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+  width="100%"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdeore2151&theme=tokyonight"
+  alt="GitHub Profile Summary"
+  width="100%"
+/>
+
+</div>
 
 ---
 
