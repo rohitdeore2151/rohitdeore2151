@@ -105,7 +105,6 @@ ai_stack = {
 />
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
