@@ -92,7 +92,7 @@ ai_stack = {
   width="100%"
 />
 
-<br><br>
+<br>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitdeore2151&theme=tokyonight"
