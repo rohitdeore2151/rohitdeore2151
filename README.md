@@ -81,7 +81,7 @@ ai_stack = {
   <img width="48%" src="./profile/stats.svg" alt="GitHub Stats" />
   <img width="48%" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
-
+---
 ## 📈 GitHub Activity
 
 <div align="center">
