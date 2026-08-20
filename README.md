@@ -78,12 +78,8 @@ ai_stack = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohitdeore2151&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdeore2151&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rohitdeore2151&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img width="48%" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ## 📈 GitHub Activity
@@ -105,7 +101,6 @@ ai_stack = {
 />
 
 </div>
----
 
 ## 🚀 Featured Projects
 
