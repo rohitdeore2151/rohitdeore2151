@@ -79,7 +79,7 @@ ai_stack = {
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rohitdeore2151&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=rohitdeore2151&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
   />
   <img
@@ -95,11 +95,13 @@ ai_stack = {
   />
 </p>
 
-## 📈 Contribution Activity
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Rohit%20Deore's%20Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=react-dark&hide_border=true&area=true"
     width="100%"
   />
 </p>
