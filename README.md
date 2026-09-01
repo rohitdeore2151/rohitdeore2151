@@ -75,22 +75,34 @@ ai_stack = {
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="./profile/stats.svg" alt="GitHub Stats" />
-  <img width="48%" src="./profile/top-langs.svg" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohitdeore2151&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdeore2151&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdeore2151&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 ## 📈 GitHub Activity
 
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub Activity Graph"
-  width="100%"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitdeore2151&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
 
 <br>
 
